@@ -1,4 +1,4 @@
-// Aula: Configurando rotas para CRUD de tarefas com autenticação JWT
+// Configurando rotas para CRUD de tarefas com autenticação JWT
 // Objetivo: Criar, listar, atualizar e excluir tarefas no banco SQLite
 
 // Importa o módulo Express para criar roteadores

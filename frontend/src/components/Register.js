@@ -1,4 +1,4 @@
-// Aula: Criando o componente de registro
+// Criando o componente de registro
 // Objetivo: Criar um formulário para registrar usuários via API
 
 // Importa o React e useState para gerenciar estado

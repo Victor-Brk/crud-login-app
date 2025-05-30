@@ -1,4 +1,4 @@
-// Aula: Criando o componente de login
+// Criando o componente de login
 // Objetivo: Criar um formulário para autenticar usuários via API
 
 // Importa o React e useState para gerenciar estado

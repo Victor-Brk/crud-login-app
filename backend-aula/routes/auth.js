@@ -1,4 +1,4 @@
-// Aula: Configurando rotas de autenticação com SQLite e JWT
+// Configurando rotas de autenticação com SQLite e JWT
 // Objetivo: Criar rotas para registro e login de usuários
 
 // Importa o módulo Express para criar roteadores
